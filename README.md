@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Live Display](photos/lcd-closeup.jpg)
+![Live Display](<img width="1600" height="900" alt="WhatsApp Image 2026-09-10 at 21 12 18" src="https://github.com/user-attachments/assets/b7652364-fac0-46f5-a8a1-82b8f297bfe6" />)
 *Live reading: 31.0 °C · 63.0 % RH — captured during development*
 
 </div>
