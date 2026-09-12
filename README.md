@@ -204,7 +204,7 @@ lastRefresh = now;
 
 | Arduino Uno (powered up) | Full setup with LCD | LCD close-up |
 |:---:|:---:|:---:|
-| ![Arduino Uno Board](https://github.com/user-attachments/assets/859a2883-9706-41b3-89f3-ac60ce9fb158) | ![Setup](photos/full-setup.jpg) | ![LCD](photos/lcd-closeup.jpg) |
+| ![Arduino Uno Board](https://github.com/user-attachments/assets/859a2883-9706-41b3-89f3-ac60ce9fb158) | ![Setup](https://github.com/user-attachments/assets/51315981-3ab5-4f17-85dd-0bb9e928f8c0) | ![LCD](photos/lcd-closeup.jpg) |
 
 *Readings shown: 30.8 °C / 64.0 % RH and 31.0 °C / 63.0 % RH — captured live during testing.*
 
