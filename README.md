@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Live Display](<img width="1600" height="900" alt="WhatsApp Image 2026-09-10 at 21 12 18" src="https://github.com/user-attachments/assets/d44c5a2f-a1ba-465e-a43f-d21acbb1ede2" />)
+![Live Display](<img src="https://github.com/user-attachments/assets/ca0c6beb-20fd-4b6f-bfa6-2c14c38b366f" alt="Live Display">)
 *Live reading: 31.0 °C · 63.0 % RH — captured during development*
 
 </div>
