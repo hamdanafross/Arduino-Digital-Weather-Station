@@ -6,7 +6,8 @@
 
 <div align="center">
 
-![Live Display](<img src="https://github.com/user-attachments/assets/ca0c6beb-20fd-4b6f-bfa6-2c14c38b366f" alt="Live Display">)
+![Live Display](https://github.com/user-attachments/assets/ca0c6beb-20fd-4b6f-bfa6-2c14c38b366f)
+
 *Live reading: 31.0 °C · 63.0 % RH — captured during development*
 
 </div>
